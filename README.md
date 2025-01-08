@@ -1,4 +1,4 @@
-# 🤖 Bot de Consultas Telegram
+# 🐨 Bot de Consultas Telegram
 
 E aí! 👋 Este é o Bot de Consultas Telegram - seu assistente para consultas rápidas! 🚀
 
