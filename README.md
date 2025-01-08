@@ -29,7 +29,6 @@ Quer testar no seu ambiente? Aqui estão os passos:
 
 ## Contato 📞
 
-Se pintar alguma dúvida ou só pra bater um papo, estamos por aqui:
 
 <div> 
 
