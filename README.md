@@ -4,15 +4,15 @@ E aí! 👋 Este é o Bot de Consultas Telegram - seu assistente para consultas 
 
 ## Funcionalidades 🌐
 
-1. **Consulta de CEP**: Quer detalhes sobre um CEP? Eu te conto!
-2. **Consulta de CNPJ**: Descubra tudo sobre uma empresa pelo CNPJ.
-3. **Consulta de IP**: Informações sobre um endereço IP? É comigo mesmo!
+1. **Consulta de CEP**
+2. **Consulta de CNPJ**
+3. **Consulta de IP**
 
 ## Como Usar 🚀
 
-1. Mande um `/start` para eu te dar as boas-vindas e te mostrar as opções.
-2. O `/menu` também aparece as opções para você.
-3. Escolha o que quer fazer e siga minhas instruções.
+1. Digite `/start` para iniciar o bot.
+2. Digite `/menu` e irá aparecer as opções e instruçoes.
+3. Escolha o que quer fazer e siga as instruções.
 
 ## Como o Bot é Feito 🛠️
 
